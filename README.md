@@ -1,2 +1,5 @@
-# mapping-campaigns
-Mapping Digital Campaign Strategies
+# Overview
+
+This repository provides a Python implementation of the code used to perform the analysis described in the following paper:
+
+	James Cross, Martijn Schoonvelde, Stefan Müller, and Derek Greene. “Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance” (Under Review)
